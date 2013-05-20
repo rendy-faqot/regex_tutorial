@@ -2,4 +2,5 @@ regex_tutorial
 ==============
 
 Regex tutorial for extracting information from text.
-This source coded in Java Programming.
+This sample code write in Java Programming.
+Contact: rendy.faqot@gmail.com
